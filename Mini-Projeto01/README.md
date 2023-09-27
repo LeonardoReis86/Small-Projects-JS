@@ -1,6 +1,6 @@
-Título do Mini Projeto: Inversão de Variáveis em JavaScript
+# Título do Mini Projeto: Inversão de Variáveis em JavaScript
 
-Descrição:
+## Descrição:
 
 Este mini projeto consiste em um código JavaScript que demonstra como inverter o valor de duas variáveis. Inicialmente, o código define duas variáveis, a e b, com os valores "vermelho" e "Azul". Em seguida, o código exibe os valores no terminal.
 

@@ -1,6 +1,6 @@
-Título do Mini Projeto: Máximo entre Valores
+#Título do Mini Projeto: Máximo entre Valores
 
-Descrição:
+## Descrição:
 
 Este mini projeto consiste na criação de uma função em JavaScript que recebe dois números como entrada e retorna o maior deles. A função é projetada para ser simples e direta, fornecendo uma solução eficiente para a tarefa de encontrar o número máximo entre dois valores.
 
