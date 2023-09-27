@@ -8,7 +8,7 @@ Realização de pequenos projetos para fixação de conhecimento:
 - [x] Mini-Projeto 2 - Máximo entre Valores;
 - [x] Mini-Projeto 3 - FizzBuzz;
 - [x] Mini-Projeto 4 - Medidor de Velocidade
-- [ ] Mini-Projeto 5 - Par ou Impar
+- [x] Mini-Projeto 5 - Par ou Impar
 - [ ] Mini-Projeto 6 - Encontre o String
 - [ ] Mini-Projeto 7 - Multiplos de 3 e 5
 - [ ] Mini-Projeto 8 - Média de Nota Escolar
